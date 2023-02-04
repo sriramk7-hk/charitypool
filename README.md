@@ -1,0 +1,3 @@
+# CharityPool
+
+Hackathon Project
